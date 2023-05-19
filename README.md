@@ -23,4 +23,4 @@ git clone https://github.com/WannHakimi/BigBang-CS.git
 
 ```bash
 python bigbang.py
-```
+``` 
