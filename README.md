@@ -17,7 +17,7 @@ git https://github.com/WannHakimi/BigBang-CS.git
 
 2. Ensure you have Python 3 installed on your system.
 
-3. Open a terminal or command prompt and navigate to the project directory.
+3. Open a terminal or command prompt and navigate to the project directory .
 
 4. Run the following command:
 
