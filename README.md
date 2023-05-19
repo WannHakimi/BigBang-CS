@@ -11,7 +11,7 @@ This script generates an array of numbers from 1 to 100, replacing numbers divis
    - To clone, copy the repository URL and run the following command in your terminal or command prompt:
 
 ```bash
-git https://github.com/WannHakimi/BigBang-CS.git
+git clone https://github.com/WannHakimi/BigBang-CS.git
 ```
 
 
