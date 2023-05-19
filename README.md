@@ -1,6 +1,6 @@
 # Big Bang Project
 
-This script generates an array of numbers from 1 to 100, replacing numbers divisible by 3 with "BIG", numbers divisible by 5 with "BANG", and numbers divisible by both 3 and 5 with "BIGBANG". The output is saved to a JSON file called `output.json`.
+This script generates an array of numbers from 1 to 100, replacing numbers divisible by 3 with "BIG", numbers divisible by 5 with "BANG", and numbers divisible by both 3 and 5 with "BIGBANG". The output is saved to a JSON file called  `output.json`.
 
 ## How to use the script
 
