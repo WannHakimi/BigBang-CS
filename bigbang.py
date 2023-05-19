@@ -7,15 +7,18 @@ def big_bang(limit):
             result.append("BIGBANG")
         elif i % 3 == 0:
             result.append("BIG")
-        elif i % 5 == 0:
+        elif i %5 == 0:
             result.append("BANG")
         else:
             result.append(str(i))
     return result
 
 def save_to_json(data, filename):
-    with open(filename, 'w') as outfile:
-        json.dump(data, outfile)
+    try:
+        with open(filename, 'w') as outfile:
+            json.dump(data, outfile)
+    except (IOError, TypeError) as e:
+        print(f"Error saving to {filename}: {e}")
 
 if __name__ == "__main__":
     limit = 100
