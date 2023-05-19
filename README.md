@@ -19,7 +19,7 @@ git clone https://github.com/WannHakimi/BigBang-CS.git
 
 3. Open a terminal or command prompt and navigate to the project directory .
 
-    - In the Command Prompt, type 
+    - In the Command Prompt, type ```cd <directory-name>``` example :
     ``` cd C:\Users\admin\BigBang-CS```
      and press Enter. This command will change the current directory to the BigBang-CS directory.
 
