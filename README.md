@@ -28,3 +28,4 @@ git clone https://github.com/WannHakimi/BigBang-CS.git
 ```bash
 python bigbang.py
 ``` 
+Note : You can delete the output.json file first and run the code , after running the code the output.json should appear in the directory of BigBang-CS in your computer. 
